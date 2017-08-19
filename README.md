@@ -11,7 +11,7 @@ This repository contains the Coding Challenge needed for applying to Technigo’
 ### How do I apply?
 1. **Read course description.** Before doing anything read the full course description and make sure you fully understand what it means to go our Programming Boot Camp. Have any questions? Please contact us at hello@technigo.io and we’ll answer you straightaway.
 2. **Do the Coding Challenge.** Create a solution for our Coding Challenge here on Github. Upload all files on your Github page. The repository should be open, not private so we can read it. Submit a link to it in your applications form. It’s important that you have it ready before submitting your application.
-3. **Fill out your application.** Fill out this application form. Remember, once you’ve sent it in you cannot go back and change it later on.
+3. **Fill out your application.** [Fill out this application form.](https://technigo.typeform.com/to/ciDY0h) Remember, once you’ve sent it in you cannot go back and change it later on.
 
 ### Why do I need to apply with a coding challenge?
 We know that all of you are beginners at programming - we will not judge your solution based on the quality of your code or amount of work. We do however want to see that you’ve touched on a bit of programming before and know what you’re getting yourself into.
