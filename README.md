@@ -18,9 +18,9 @@ Your solution must contain:
 3. Download or clone this repository with templates and start coding.
 
 ### Delivery
-Create a solution for our Coding Challenge here on Github. Upload all files on your Github page. The repository should be open, not private so we can read it. Submit a link to it in your applications form. It’s important that you have it ready before submitting your application.
+Create a solution for our Coding Challenge here on Github. Upload all files on your Github page. The repository should be public, not private so we can read it. Submit a link to it in your application form. It’s important that you have it ready before submitting your application.
 
-Send us a link to your open Github repository containing your solution in your application form. 
+Send us a link to your public Github repository containing your solution in your application form. 
 
 ### Why do I need to apply with a coding challenge?
 We know that all of you are beginners at programming - we will not judge your solution based on the quality of your code or amount of work. We do however want to see that you’ve touched on a bit of programming before and know what you’re getting yourself into.
