@@ -18,6 +18,14 @@ We know that all of you are beginners at programming - we will not judge your so
 
 Make sure to have fun during the process! Do something that you find interesting and motivating.
 
+### Help
+If you need help or have questions we have a Slack. Hanging out in the Slack group is, of course, optional. There's several Slack channels in the group we think might be of use. Also, feel free to contribute! 
+* **#help-boot-camp-17** If you have any questions about your coding challenge or the program we're there to help.
+* **#resources** Tutorials, design assets or other useful material.  
+* **#general** For anything else, funny links, great articles etc. 
+
+You can also get help on email – on hello@technigo.io. 
+
 ### Questions
 If you have any questions about the challenge, application or the boot camp in general do not hesitate to contact us on hello@technigo.io and we’ll answer all your questions.
 
